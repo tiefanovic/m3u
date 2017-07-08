@@ -1,5 +1,5 @@
 {
-    "name": "urvin/m3u",
+    "name": "tiefanovic/m3u",
     "description": "m3u playlist parser",
     "keywords": ["m3u", "playlist"],
     "type": "library",
